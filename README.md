@@ -49,7 +49,7 @@ A tecnologia é simplesmente incrível!!
 
 <br>
  <p align="left">🌱 Cursando 4° período em  desenvolvimento de sistemas, na instituição Newton Paiva. </p>
- <p align="left">☕🎮 Gosto de café, gosto de  games e amo Java  hehe </p>
+ <p align="left">☕🎮 Gosto de café, curto games e amo Java  hehe </p>
  <p align="left">📚 Atualmente aprofundo meu estudos em Java ☕ ;</p>
  
  <br/>
