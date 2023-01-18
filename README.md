@@ -56,7 +56,7 @@ A tecnologia é simplesmente incrível!!
  
  </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.linkedin.com/in/paulo-alves-243a84186/) ou [e-mail](mailto:paulojr_030@hotmail.com) (eu demoro a responder as vezes mas sou legal, hehe) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [linkedin](https://www.linkedin.com/in/paulo-alves-243a84186/) ou [e-mail](mailto:paulojr_030@hotmail.com) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
