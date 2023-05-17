@@ -26,7 +26,7 @@
 ## Hey Guys 
 
  
-Tenho 24 anos, moro em Belo Horizonte/MG, sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 
+Tenho 25 anos, moro em Belo Horizonte/MG, sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 
 <br>
 A tecnologia é simplesmente incrível!!
 <br/>
